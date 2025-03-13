@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Wilayah I - Sumatera</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>ACEH</name>
+      <description><![CDATA[id: 11<br>alt_name: ACEH<br>latitude: 4.686147<br>longitude: 96.7369046]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>11.0</value>
+        </Data>
+        <Data name="alt_name">
+          <value>ACEH</value>
+        </Data>
+        <Data name="latitude">
+          <value>4.686147</value>
+        </Data>
+        <Data name="longitude">
+          <value>96.7369046</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          96.7369046,4.686147,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SUMATERA UTARA</name>
+      <description><![CDATA[id: 12<br>alt_name: SUMATERA UTARA<br>latitude: 2.115501<br>longitude: 99.5020702]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>12.0</value>
+        </Data>
+        <Data name="alt_name">
+          <value>SUMATERA UTARA</value>
+        </Data>
+        <Data name="latitude">
+          <value>2.115501</value>
+        </Data>
+        <Data name="longitude">
+          <value>99.5020702</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          99.5020702,2.115501,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SUMATERA BARAT</name>
+      <description><![CDATA[id: 13<br>alt_name: SUMATERA BARAT<br>latitude: -0.7380951<br>longitude: 100.7380297]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>13.0</value>
+        </Data>
+        <Data name="alt_name">
+          <value>SUMATERA BARAT</value>
+        </Data>
+        <Data name="latitude">
+          <value>-0.7380951</value>
+        </Data>
+        <Data name="longitude">
+          <value>100.7380297</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.7380297,-0.7380951,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JAMBI</name>
+      <description><![CDATA[id: 15<br>alt_name: JAMBI<br>latitude: -1.4866459<br>longitude: 102.4377515]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>15.0</value>
+        </Data>
+        <Data name="alt_name">
+          <value>JAMBI</value>
+        </Data>
+        <Data name="latitude">
+          <value>-1.4866459</value>
+        </Data>
+        <Data name="longitude">
+          <value>102.4377515</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          102.4377515,-1.4866459,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RIAU</name>
+      <description><![CDATA[id: 14<br>alt_name: RIAU<br>latitude: 0.2861825<br>longitude: 101.6986425]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>14.0</value>
+        </Data>
+        <Data name="alt_name">
+          <value>RIAU</value>
+        </Data>
+        <Data name="latitude">
+          <value>0.2861825</value>
+        </Data>
+        <Data name="longitude">
+          <value>101.6986425</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.6986425,0.2861825,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SUMATERA SELATAN</name>
+      <description><![CDATA[id: 16<br>alt_name: SUMATERA SELATAN<br>latitude: -3.3254945<br>longitude: 103.8884394]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>16.0</value>
+        </Data>
+        <Data name="alt_name">
+          <value>SUMATERA SELATAN</value>
+        </Data>
+        <Data name="latitude">
+          <value>-3.3254945</value>
+        </Data>
+        <Data name="longitude">
+          <value>103.8884394</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          103.8884394,-3.3254945,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BENGKULU</name>
+      <description><![CDATA[id: 17<br>alt_name: BENGKULU<br>latitude: -3.5817316<br>longitude: 102.345092]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>17.0</value>
+        </Data>
+        <Data name="alt_name">
+          <value>BENGKULU</value>
+        </Data>
+        <Data name="latitude">
+          <value>-3.5817316</value>
+        </Data>
+        <Data name="longitude">
+          <value>102.345092</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          102.345092,-3.5817316,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LAMPUNG</name>
+      <description><![CDATA[id: 18<br>alt_name: LAMPUNG<br>latitude: -4.554392<br>longitude: 105.3980862]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>18.0</value>
+        </Data>
+        <Data name="alt_name">
+          <value>LAMPUNG</value>
+        </Data>
+        <Data name="latitude">
+          <value>-4.554392</value>
+        </Data>
+        <Data name="longitude">
+          <value>105.3980862</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          105.3980862,-4.554392,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KEPULAUAN BANGKA BELITUNG</name>
+      <description><![CDATA[id: 19<br>alt_name: KEPULAUAN BANGKA BELITUNG<br>latitude: -2.7604936<br>longitude: 106.4317489]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>19.0</value>
+        </Data>
+        <Data name="alt_name">
+          <value>KEPULAUAN BANGKA BELITUNG</value>
+        </Data>
+        <Data name="latitude">
+          <value>-2.7604936</value>
+        </Data>
+        <Data name="longitude">
+          <value>106.4317489</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          106.4317489,-2.7604936,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KEPULAUAN RIAU</name>
+      <description><![CDATA[id: <br>alt_name: <br>latitude: 3.9456514<br>longitude: 108.1428669]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value/>
+        </Data>
+        <Data name="alt_name">
+          <value/>
+        </Data>
+        <Data name="latitude">
+          <value>3.9456514</value>
+        </Data>
+        <Data name="longitude">
+          <value>108.1428669</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          108.1428669,3.9456514,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

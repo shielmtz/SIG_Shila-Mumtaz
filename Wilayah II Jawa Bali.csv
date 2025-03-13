@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Wilayah II Jawa Bali</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>DKI JAKARTA</name>
+      <description><![CDATA[id: <br>alt_name: <br>latitude: -6.180495<br>longitude: 106.8283415]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value/>
+        </Data>
+        <Data name="alt_name">
+          <value/>
+        </Data>
+        <Data name="latitude">
+          <value>-6.180495</value>
+        </Data>
+        <Data name="longitude">
+          <value>106.8283415</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          106.8283415,-6.180495,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JAWA BARAT</name>
+      <description><![CDATA[id: 32<br>alt_name: JAWA BARAT<br>latitude: -7.0854671<br>longitude: 107.6624313]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>32.0</value>
+        </Data>
+        <Data name="alt_name">
+          <value>JAWA BARAT</value>
+        </Data>
+        <Data name="latitude">
+          <value>-7.0854671</value>
+        </Data>
+        <Data name="longitude">
+          <value>107.6624313</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          107.6624313,-7.0854671,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JAWA TENGAH</name>
+      <description><![CDATA[id: 33<br>alt_name: JAWA TENGAH<br>latitude: -7.1492806<br>longitude: 110.1389939]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>33.0</value>
+        </Data>
+        <Data name="alt_name">
+          <value>JAWA TENGAH</value>
+        </Data>
+        <Data name="latitude">
+          <value>-7.1492806</value>
+        </Data>
+        <Data name="longitude">
+          <value>110.1389939</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          110.1389939,-7.1492806,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DI YOGYAKARTA</name>
+      <description><![CDATA[id: 34<br>alt_name: DI YOGYAKARTA<br>latitude: -7.8707023<br>longitude: 110.4184938]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>34.0</value>
+        </Data>
+        <Data name="alt_name">
+          <value>DI YOGYAKARTA</value>
+        </Data>
+        <Data name="latitude">
+          <value>-7.8707023</value>
+        </Data>
+        <Data name="longitude">
+          <value>110.4184938</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          110.4184938,-7.8707023,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JAWA TIMUR</name>
+      <description><![CDATA[id: 35<br>alt_name: JAWA TIMUR<br>latitude: -7.4919197<br>longitude: 112.2113036]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>35.0</value>
+        </Data>
+        <Data name="alt_name">
+          <value>JAWA TIMUR</value>
+        </Data>
+        <Data name="latitude">
+          <value>-7.4919197</value>
+        </Data>
+        <Data name="longitude">
+          <value>112.2113036</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          112.2113036,-7.4919197,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BANTEN</name>
+      <description><![CDATA[id: 36<br>alt_name: BANTEN<br>latitude: -6.401707<br>longitude: 106.0606541]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>36.0</value>
+        </Data>
+        <Data name="alt_name">
+          <value>BANTEN</value>
+        </Data>
+        <Data name="latitude">
+          <value>-6.401707</value>
+        </Data>
+        <Data name="longitude">
+          <value>106.0606541</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          106.0606541,-6.401707,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BALI</name>
+      <description><![CDATA[id: 51<br>alt_name: BALI<br>latitude: -8.3960222<br>longitude: 115.1855653]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>51.0</value>
+        </Data>
+        <Data name="alt_name">
+          <value>BALI</value>
+        </Data>
+        <Data name="latitude">
+          <value>-8.3960222</value>
+        </Data>
+        <Data name="longitude">
+          <value>115.1855653</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          115.1855653,-8.3960222,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

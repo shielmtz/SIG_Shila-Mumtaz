@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Wilayah V  - Indonesia Timur</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>NUSA TENGGARA BARAT</name>
+      <description><![CDATA[id: 52<br>alt_name: NUSA TENGGARA BARAT<br>latitude: -8.6490314<br>longitude: 117.3732557]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>52.0</value>
+        </Data>
+        <Data name="alt_name">
+          <value>NUSA TENGGARA BARAT</value>
+        </Data>
+        <Data name="latitude">
+          <value>-8.6490314</value>
+        </Data>
+        <Data name="longitude">
+          <value>117.3732557</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          117.3732557,-8.6490314,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NUSA TENGGARA TIMUR</name>
+      <description><![CDATA[id: 53<br>alt_name: NUSA TENGGARA TIMUR<br>latitude: -8.6743251<br>longitude: 121.0494146]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>53.0</value>
+        </Data>
+        <Data name="alt_name">
+          <value>NUSA TENGGARA TIMUR</value>
+        </Data>
+        <Data name="latitude">
+          <value>-8.6743251</value>
+        </Data>
+        <Data name="longitude">
+          <value>121.0494146</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          121.0494146,-8.6743251,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MALUKU</name>
+      <description><![CDATA[id: 81<br>alt_name: MALUKU<br>latitude: -3.2559724<br>longitude: 130.1348921]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>81.0</value>
+        </Data>
+        <Data name="alt_name">
+          <value>MALUKU</value>
+        </Data>
+        <Data name="latitude">
+          <value>-3.2559724</value>
+        </Data>
+        <Data name="longitude">
+          <value>130.1348921</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          130.1348921,-3.2559724,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MALUKU UTARA</name>
+      <description><![CDATA[id: 82<br>alt_name: MALUKU UTARA<br>latitude: 1.5636955<br>longitude: 127.8072086]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>82.0</value>
+        </Data>
+        <Data name="alt_name">
+          <value>MALUKU UTARA</value>
+        </Data>
+        <Data name="latitude">
+          <value>1.5636955</value>
+        </Data>
+        <Data name="longitude">
+          <value>127.8072086</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          127.8072086,1.5636955,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PAPUA BARAT</name>
+      <description><![CDATA[id: 91<br>alt_name: PAPUA BARAT<br>latitude: -1.307351<br>longitude: 133.1662027]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>91.0</value>
+        </Data>
+        <Data name="alt_name">
+          <value>PAPUA BARAT</value>
+        </Data>
+        <Data name="latitude">
+          <value>-1.307351</value>
+        </Data>
+        <Data name="longitude">
+          <value>133.1662027</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          133.1662027,-1.307351,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PAPUA</name>
+      <description><![CDATA[id: 94<br>alt_name: PAPUA<br>latitude: -4.295483<br>longitude: 138.0189391]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>94.0</value>
+        </Data>
+        <Data name="alt_name">
+          <value>PAPUA</value>
+        </Data>
+        <Data name="latitude">
+          <value>-4.295483</value>
+        </Data>
+        <Data name="longitude">
+          <value>138.0189391</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          138.0189391,-4.295483,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

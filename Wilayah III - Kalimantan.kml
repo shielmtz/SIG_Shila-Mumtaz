@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Wilayah III - Kalimantan</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>KALIMANTAN BARAT</name>
+      <description><![CDATA[id: 61<br>alt_name: KALIMANTAN BARAT<br>latitude: -0.2640755<br>longitude: 111.4704251]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>61.0</value>
+        </Data>
+        <Data name="alt_name">
+          <value>KALIMANTAN BARAT</value>
+        </Data>
+        <Data name="latitude">
+          <value>-0.2640755</value>
+        </Data>
+        <Data name="longitude">
+          <value>111.4704251</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          111.4704251,-0.2640755,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KALIMANTAN TENGAH</name>
+      <description><![CDATA[id: 62<br>alt_name: KALIMANTAN TENGAH<br>latitude: -1.6533488<br>longitude: 113.3782297]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>62.0</value>
+        </Data>
+        <Data name="alt_name">
+          <value>KALIMANTAN TENGAH</value>
+        </Data>
+        <Data name="latitude">
+          <value>-1.6533488</value>
+        </Data>
+        <Data name="longitude">
+          <value>113.3782297</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          113.3782297,-1.6533488,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KALIMANTAN SELATAN</name>
+      <description><![CDATA[id: 63<br>alt_name: KALIMANTAN SELATAN<br>latitude: -2.94348<br>longitude: 115.37565]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>63.0</value>
+        </Data>
+        <Data name="alt_name">
+          <value>KALIMANTAN SELATAN</value>
+        </Data>
+        <Data name="latitude">
+          <value>-2.94348</value>
+        </Data>
+        <Data name="longitude">
+          <value>115.37565</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          115.37565,-2.94348,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KALIMANTAN TIMUR</name>
+      <description><![CDATA[id: 64<br>alt_name: KALIMANTAN TIMUR<br>latitude: 0.78844<br>longitude: 116.242]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>64.0</value>
+        </Data>
+        <Data name="alt_name">
+          <value>KALIMANTAN TIMUR</value>
+        </Data>
+        <Data name="latitude">
+          <value>0.78844</value>
+        </Data>
+        <Data name="longitude">
+          <value>116.242</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          116.242,0.78844,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KALIMANTAN UTARA</name>
+      <description><![CDATA[id: 65<br>alt_name: KALIMANTAN UTARA<br>latitude: 3.0769993<br>longitude: 116.0320932]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value>65.0</value>
+        </Data>
+        <Data name="alt_name">
+          <value>KALIMANTAN UTARA</value>
+        </Data>
+        <Data name="latitude">
+          <value>3.0769993</value>
+        </Data>
+        <Data name="longitude">
+          <value>116.0320932</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          116.0320932,3.0769993,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
